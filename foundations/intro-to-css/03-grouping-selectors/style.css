@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+* {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+
+.Click {
+    background-color: hsl(0, 0%, 0%);
+    color: rgb(255, 255, 255);
+}
+
+.No {
+    background-color: #ecec06;
+}
